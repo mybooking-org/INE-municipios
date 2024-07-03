@@ -1,0 +1,210 @@
+[
+    {
+        "CODIGO": "02",
+        "LITERAL": "Albacete"
+    },
+    {
+        "CODIGO": "03",
+        "LITERAL": "Alicante/Alacant"
+    },
+    {
+        "CODIGO": "04",
+        "LITERAL": "Almería"
+    },
+    {
+        "CODIGO": "01",
+        "LITERAL": "Araba/Álava"
+    },
+    {
+        "CODIGO": "33",
+        "LITERAL": "Asturias"
+    },
+    {
+        "CODIGO": "05",
+        "LITERAL": "Ávila"
+    },
+    {
+        "CODIGO": "06",
+        "LITERAL": "Badajoz"
+    },
+    {
+        "CODIGO": "07",
+        "LITERAL": "Balears, Illes"
+    },
+    {
+        "CODIGO": "08",
+        "LITERAL": "Barcelona"
+    },
+    {
+        "CODIGO": "48",
+        "LITERAL": "Bizkaia"
+    },
+    {
+        "CODIGO": "09",
+        "LITERAL": "Burgos"
+    },
+    {
+        "CODIGO": "10",
+        "LITERAL": "Cáceres"
+    },
+    {
+        "CODIGO": "11",
+        "LITERAL": "Cádiz"
+    },
+    {
+        "CODIGO": "39",
+        "LITERAL": "Cantabria"
+    },
+    {
+        "CODIGO": "12",
+        "LITERAL": "Castellón/Castelló"
+    },
+    {
+        "CODIGO": "13",
+        "LITERAL": "Ciudad Real"
+    },
+    {
+        "CODIGO": "14",
+        "LITERAL": "Córdoba"
+    },
+    {
+        "CODIGO": "15",
+        "LITERAL": "Coruña, A"
+    },
+    {
+        "CODIGO": "16",
+        "LITERAL": "Cuenca"
+    },
+    {
+        "CODIGO": "20",
+        "LITERAL": "Gipuzkoa"
+    },
+    {
+        "CODIGO": "17",
+        "LITERAL": "Girona"
+    },
+    {
+        "CODIGO": "18",
+        "LITERAL": "Granada"
+    },
+    {
+        "CODIGO": "19",
+        "LITERAL": "Guadalajara"
+    },
+    {
+        "CODIGO": "21",
+        "LITERAL": "Huelva"
+    },
+    {
+        "CODIGO": "22",
+        "LITERAL": "Huesca"
+    },
+    {
+        "CODIGO": "23",
+        "LITERAL": "Jaén"
+    },
+    {
+        "CODIGO": "24",
+        "LITERAL": "León"
+    },
+    {
+        "CODIGO": "25",
+        "LITERAL": "Lleida"
+    },
+    {
+        "CODIGO": "27",
+        "LITERAL": "Lugo"
+    },
+    {
+        "CODIGO": "28",
+        "LITERAL": "Madrid"
+    },
+    {
+        "CODIGO": "29",
+        "LITERAL": "Málaga"
+    },
+    {
+        "CODIGO": "30",
+        "LITERAL": "Murcia"
+    },
+    {
+        "CODIGO": "31",
+        "LITERAL": "Navarra"
+    },
+    {
+        "CODIGO": "32",
+        "LITERAL": "Ourense"
+    },
+    {
+        "CODIGO": "34",
+        "LITERAL": "Palencia"
+    },
+    {
+        "CODIGO": "35",
+        "LITERAL": "Palmas, Las"
+    },
+    {
+        "CODIGO": "36",
+        "LITERAL": "Pontevedra"
+    },
+    {
+        "CODIGO": "26",
+        "LITERAL": "Rioja, La"
+    },
+    {
+        "CODIGO": "37",
+        "LITERAL": "Salamanca"
+    },
+    {
+        "CODIGO": "38",
+        "LITERAL": "Santa Cruz de Tenerife"
+    },
+    {
+        "CODIGO": "40",
+        "LITERAL": "Segovia"
+    },
+    {
+        "CODIGO": "41",
+        "LITERAL": "Sevilla"
+    },
+    {
+        "CODIGO": "42",
+        "LITERAL": "Soria"
+    },
+    {
+        "CODIGO": "43",
+        "LITERAL": "Tarragona"
+    },
+    {
+        "CODIGO": "44",
+        "LITERAL": "Teruel"
+    },
+    {
+        "CODIGO": "45",
+        "LITERAL": "Toledo"
+    },
+    {
+        "CODIGO": "46",
+        "LITERAL": "Valencia/València"
+    },
+    {
+        "CODIGO": "47",
+        "LITERAL": "Valladolid"
+    },
+    {
+        "CODIGO": "49",
+        "LITERAL": "Zamora"
+    },
+    {
+        "CODIGO": "50",
+        "LITERAL": "Zaragoza"
+    },
+    {
+        "CODIGO": "51",
+        "LITERAL": "Ceuta"
+    },
+    {
+        "CODIGO": "52",
+        "LITERAL": "Melilla"
+    }
+]
